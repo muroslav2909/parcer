@@ -7430,3 +7430,91 @@ Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/m
 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
 
+1477473860364	geckodriver	INFO	Listening on 127.0.0.1:57566
+1477473861366	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NQi4JfRCqXy8
+1477473861368	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1477473861376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41768
+1477473862336	Marionette	INFO	Listening on port 41768
+1477473863803	Marionette	INFO	startBrowser e5fd999a-dbde-4450-9e28-c43fcb17bebb
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-500039, line 31: TypeError: $ is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-500039, line 21: TypeError: $(...).autocomplete is not a function
+
+(firefox:7297): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7297): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7297): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7297): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7297): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7365] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-h19o_O/firefox-49.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 316
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=13.3972) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600E3,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1477473887718	geckodriver	INFO	Listening on 127.0.0.1:42689
+1477473888714	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DjSF09OBpcIU
+1477473888715	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1477473888721	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36923
+1477473889711	Marionette	INFO	Listening on port 36923
+1477473891357	Marionette	INFO	startBrowser 4c40f0a3-04f7-4bf9-8130-8a19b1b8edd5
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-515591, line 31: TypeError: $ is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-515591, line 21: TypeError: $(...).autocomplete is not a function
+1477474142135	geckodriver	INFO	Listening on 127.0.0.1:52692
+1477474143133	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.v0KucKZ2fZeD
+1477474143135	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1477474143140	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46065
+1477474144063	Marionette	INFO	Listening on port 46065
+1477474145578	Marionette	INFO	startBrowser 6816762b-0c90-4dfb-81ed-95d4fc388599
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-517501, line 31: TypeError: $ is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-517501, line 21: TypeError: $(...).autocomplete is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=6.25573) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600E3,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1477474182790	geckodriver	INFO	Listening on 127.0.0.1:57619
+1477474183788	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UnmPlhcszMZT
+1477474183789	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1477474183794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41630
+1477474184741	Marionette	INFO	Listening on port 41630
+
+(firefox:7919): Gdk-WARNING **: XSetErrorHandler() called with a GDK error trap pushed. Don't do that.
+1477474186388	Marionette	INFO	startBrowser cb0c72c0-cfde-4835-aad2-0b47813d85ae
+
+(firefox:7919): Gdk-WARNING **: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1060.
+
+1477474313083	geckodriver	INFO	Listening on 127.0.0.1:49420
+1477474314079	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.09Pqcp6J51oK
+1477474314080	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1477474314084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36154
+1477474315076	Marionette	INFO	Listening on port 36154
+1477474316711	Marionette	INFO	startBrowser 8463ab6b-1403-4fb6-a1ec-5a151a385e90
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-522202, line 31: TypeError: $ is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://tutorindia.net/Personal_Tutor-Private-English-Andhra_Pradesh-522202, line 21: TypeError: $(...).autocomplete is not a function
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(/usr/lib/firefox/plugin-container:8187): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :1101.
+
+
+(firefox:8111): Gdk-WARNING **: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1101.
+

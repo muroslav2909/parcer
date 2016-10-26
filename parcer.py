@@ -12,7 +12,7 @@ class Tutorindia(unittest.TestCase):
         logger.debug("I'm init.")
 
         self.display = Display(visible=0, size=(1024, 768))
-        # self.display.start()
+        self.display.start()
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(1)
         logger.debug("Init: good.")
