@@ -10,10 +10,11 @@ class Tutorindia(unittest.TestCase):
 
     def setUp(self):
         logger.debug("I'm init.")
+
+        self.display = Display(visible=0, size=(1024, 768))
+        # self.display.start()
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(1)
-        self.display = Display(visible=0, size=(1024, 768))
-        self.display.start()
         logger.debug("Init: good.")
 
     def how_much_pages(self):
